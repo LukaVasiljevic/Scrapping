@@ -17,4 +17,4 @@ Used Libraries:
 * **Request**
 * **WebDriver**
 
-*(all scripts done are done just for practice and scraped data does not have any practical use to me)*
+*(all scripts are done just for practice and scraped data does not have any practical use to me)*
